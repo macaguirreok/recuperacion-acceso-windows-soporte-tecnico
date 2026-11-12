@@ -56,9 +56,9 @@ Para realizar la prueba, se habilitó Bluetooth tanto en el equipo como en el te
 
 *(Paso 3 — Derivación del caso al soporte técnico de Microsoft)*
 
-Ante la imposibilidad de completar la verificación por los métodos disponibles, se investigaron los canales oficiales de asistencia de Microsoft. 
+Debido a que las credenciales de acceso eran correctas, pero la plataforma Microsoft impedía completar el proceso de verificación de identidad, se investigaron los canales oficiales de asistencia técnica para encontrar una alternativa que permitiera recuperar el acceso.
 
-Para ello, se consiguió un número de soporte ténico oficial , el cual una IA fué la que nos indicó el canal oficial para solucionar este tipo de incidencias 11 6076-0010 , relleando un formulario aka.ms/mssupport .
+Para ello, se consiguió un número de soporte ténico oficial 11 6076-0010  , el cual una IA fué la que nos indicó el canal oficial para solucionar este tipo de incidencias, relleando un formulario aka.ms/mssupport .
 
 Se localizó un solucionador de problemas y un formulario de contacto oficial. Para presentar el caso, se preparó una descripción detallada de la incidencia y se recopilaron capturas de pantalla como evidencia, en un documento de Google Docs para enviarlo como link.
 
