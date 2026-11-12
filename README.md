@@ -129,9 +129,9 @@ No se realizaron modificaciones en la base de datos de NEX, reinstalaciones del 
 
 Se incluyen capturas de pantalla anonimizadas que documentan parte del proceso:
 
-- `01-authentication-error.png`: mensaje de error presentado durante el intento de envío del código de verificación.
-- `02-microsoft-support-response.png`: Mensaje recibido luego de haber enviado la explicación del caso, en el solucionador de problemas.
-- 03-`microsoft-support-response.png`: comunicación recibida de Microsoft luego de la apertura del ticket.
+- `01-authentication-error.jpeg`: mensaje de error presentado durante el intento de envío del código de verificación.
+- `02-microsoft-support-response.jpeg`: Mensaje recibido luego de haber enviado la explicación del caso, en el solucionador de problemas.
+- 03-`microsoft-support-response.jpeg`: comunicación recibida de Microsoft luego de la apertura del ticket.
 
 ## Case Information
 
